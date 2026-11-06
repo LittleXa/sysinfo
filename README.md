@@ -40,3 +40,7 @@ Seulement des outils standards : `bash`, `coreutils`, `procps` (`free`, `ps`,
 
 Les couleurs sont désactivées automatiquement quand la sortie n'est pas un
 terminal (redirection vers un fichier, par exemple).
+
+## Licence
+
+[MIT](LICENSE)
